@@ -58,4 +58,4 @@ I am a final-year CSE student passionate about solving real-world problems throu
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-📫 **Contact Me:** [Your Email] | [Link to LinkedIn]
+📫 **Contact Me:** [shafayet.shadab@gmail.com] | [Link to LinkedIn]
