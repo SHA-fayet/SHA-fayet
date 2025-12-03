@@ -28,7 +28,7 @@ I am a final-year CSE student passionate about solving real-world problems throu
 - A simulation of ATM banking logic (PIN verification, withdrawals) written entirely in low-level code.
 - **Tech:** Assembly Language (8086).
 
-**🎮 Ronokhetro (Game)**
+[**🎮 Ronokhetro (Game)**](https://github.com/SHA-fayet/Ronokhetro-Battle-Ground)
 - A graphical combat game developed from scratch using graphics libraries.
 - **Tech:** C++, OpenGL.
 
