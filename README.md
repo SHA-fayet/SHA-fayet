@@ -13,6 +13,12 @@ I am a final-year CSE student passionate about solving real-world problems throu
 - Developing a Deep Learning model to identify mango types 
 - **Tech:** Python, CNN (Convolutional Neural Networks), Computer Vision.
 
+[**🎵 Music Genre Clustering via Hybrid Beta-VAE**](https://github.com/SHA-fayet/Music-Genre-Clustering-VAE)
+- Implemented a Hybrid Beta-VAE (β=4.0) for unsupervised music clustering as part of a Neural Networks course project.
+- Leverages disentangled representations by combining Audio Spectrograms and Text Embeddings.
+- Evaluated latent space visualizations and clustering metrics using K-Means, Agglomerative clustering, and DBSCAN.
+- **Tech:** Python, Deep Learning (Beta-VAE), Clustering Analysis.
+
 ### 💻 Full Stack Development
 **💰 FINTRACK (Finance Management System)**
 - A web-based application for tracking personal expenses, budget planning, and financial visualization.
