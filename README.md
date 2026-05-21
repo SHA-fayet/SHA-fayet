@@ -10,7 +10,7 @@ I am a final-year CSE student passionate about solving real-world problems throu
 ### 🧠 Artificial Intelligence & Research
 **🍃 Mango Leaf Classification (Thesis)**
 *Currently in progress*
-- Developing a Deep Learning model to identify mango types and predict fruit sweetness/sourness based on leaf morphology.
+- Developing a Deep Learning model to identify mango types 
 - **Tech:** Python, CNN (Convolutional Neural Networks), Computer Vision.
 
 ### 💻 Full Stack Development
