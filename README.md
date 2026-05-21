@@ -1,7 +1,7 @@
 # Hi there, I'm Shafayet Muhtasim 👋
 ### 🎓 Computer Science & Engineering Student | Aspiring Software Engineer
 
-I am a final-year CSE student passionate about solving real-world problems through code. I have experience ranging from **Full Stack Web Development** to **Deep Learning** and **Assembly Language**.
+I am a final-year CSE student passionate about solving real-world problems through code. I have experience ranging from **Full Stack Web Development** to **Deep Learning** and **Systems Programming**.
 
 ---
 
@@ -24,13 +24,17 @@ I am a final-year CSE student passionate about solving real-world problems throu
 - **Tech:** Flask, MySQL, Bootstrap/CSS.
 
 ### ⚙️ Systems & Graphics
+[**🎮 Python OpenGL Games Collection**](https://github.com/SHA-fayet/OpenGL-Games)
+- A curated collection of interactive 2D and 3D games (including Ronokhetro V2, Maze Explorer, and Cricket) showcasing real-time rendering, physics, and game loops.
+- **Tech:** Python, PyOpenGL, GLUT.
+
+[**🎮 Ronokhetro (C++ Version)**](https://github.com/SHA-fayet/Ronokhetro-Battle-Ground)
+- A graphical combat game developed from scratch using graphics libraries.
+- **Tech:** C++, OpenGL.
+
 **🏦 Virtual ATM Machine**
 - A simulation of ATM banking logic (PIN verification, withdrawals) written entirely in low-level code.
 - **Tech:** Assembly Language (8086).
-
-[**🎮 Ronokhetro (Game)**](https://github.com/SHA-fayet/Ronokhetro-Battle-Ground)
-- A graphical combat game developed from scratch using graphics libraries.
-- **Tech:** C++, OpenGL.
 
 ### 🤖 IoT & Robotics
 - **Micro Climate Disaster Predictor:** Automated environmental sensing system.
@@ -56,6 +60,7 @@ I am a final-year CSE student passionate about solving real-world problems throu
 **Hosting & Tools**
 ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-1D9FD3?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 📫 **Contact Me:** [shafayet.shadab@gmail.com] | [Link to LinkedIn]
