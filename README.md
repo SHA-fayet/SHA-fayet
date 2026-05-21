@@ -1,11 +1,11 @@
 # Hi there, I'm Shafayet Muhtasim 👋
-### 🎓 Computer Science & Engineering Student | Aspiring Software Engineer
+### 🎓 Computer Science & Engineering Student | Aspiring Software Engineer & ML Engineer
 
 I am a final-year CSE student passionate about solving real-world problems through code. I have experience ranging from **Full Stack Web Development** to **Deep Learning** and **Systems Programming**.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🧠 Artificial Intelligence & Research
 **🍃 Mango Leaf Classification (Thesis)**
@@ -28,15 +28,15 @@ I am a final-year CSE student passionate about solving real-world problems throu
 - A curated collection of interactive 2D and 3D games (including Ronokhetro V2, Maze Explorer, and Cricket) showcasing real-time rendering, physics, and game loops.
 - **Tech:** Python, PyOpenGL, GLUT.
 
-[**🎮 Ronokhetro (C++ Version)**](https://github.com/SHA-fayet/Ronokhetro-Battle-Ground)
+[**🎮 Ronokhetro](https://github.com/SHA-fayet/Ronokhetro-Battle-Ground)
 - A graphical combat game developed from scratch using graphics libraries.
-- **Tech:** C++, OpenGL.
+- **Tech:** python, OpenGL.
 
 **🏦 Virtual ATM Machine**
 - A simulation of ATM banking logic (PIN verification, withdrawals) written entirely in low-level code.
 - **Tech:** Assembly Language (8086).
 
-### 🤖 IoT & Robotics
+###  IoT & Robotics
 - **Micro Climate Disaster Predictor:** Automated environmental sensing system.
 - **Multi-Functional Bot:** Robotics project using Arduino/C.
 - **Water Level Indicator:** Smart alert system for tank management.
